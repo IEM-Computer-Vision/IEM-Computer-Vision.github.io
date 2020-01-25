@@ -654,6 +654,11 @@ Full-Width Styles
   padding: 50px 10px 30px 10px;
 }
 
+#header_wrap .inner a {
+  text-decoration: none;
+  color: white;
+}
+
 #header_wrap .inner img.brand-logo {
   width: 100px;
   border: none;
