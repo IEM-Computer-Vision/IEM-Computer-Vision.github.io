@@ -659,6 +659,9 @@ Full-Width Styles
   border: none;
   -webkit-box-shadow: none;
           box-shadow: none;
+  padding: 0;
+  margin: 0;
+  vertical-align: middle;
 }
 
 #navbar_wrap nav ul {
