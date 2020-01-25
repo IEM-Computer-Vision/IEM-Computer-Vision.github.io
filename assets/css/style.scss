@@ -596,6 +596,11 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
+  img.brand-logo {
+    width: 100px;
+    border: none;
+    box-shadow: none;
+  }
 }
 
 #navbar_wrap {
