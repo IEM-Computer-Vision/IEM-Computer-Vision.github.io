@@ -1,5 +1,6 @@
 title: IEM CV Club
 description: To see more than normal human
+google_analytics:
 theme: jekyll-theme-slate
 encoding: utf-8
 markdown: kramdown
